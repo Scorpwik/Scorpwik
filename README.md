@@ -1,6 +1,25 @@
 # Hola, soy Joshua Lozada
 
-Estudiante de **Diseño de Medios Interactivos** en la USFQ. Me gusta construir sitios, aplicaciones y videojuegos que se puedan usar de verdad: desde una tienda de barrio hasta una cartelera personal o un tracker de entrenamientos.
+Estudiante de **Diseño de Medios Interactivos** en la Universidad San Francisco de Quito (USFQ). Construyo sitios, aplicaciones y videojuegos que se puedan usar de verdad: desde una tienda de barrio hasta una cartelera personal o un tracker de entrenamientos.
+
+Estoy abierto a pasantías y a proyectos freelance.
+
+[![Portafolio](https://img.shields.io/badge/Portafolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://scorpwik.github.io/portafolio-web-v1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-lozada-95817a232)
+[![Correo](https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:joshua-lozada@hotmail.com)
+
+Ecuador · [Portafolio](https://scorpwik.github.io/portafolio-web-v1/) · [LinkedIn](https://www.linkedin.com/in/joshua-lozada-95817a232) · [Correo](mailto:joshua-lozada@hotmail.com)
+
+## Proyectos destacados
+
+| Proyecto | Qué es | Demo |
+| --- | --- | --- |
+| [tienda-ferreteria-lozada](https://github.com/Scorpwik/tienda-ferreteria-lozada) | Tienda web de Ferretería Lozada (Chillogallo) con catálogo, cotización en PDF y WhatsApp. TypeScript, desplegada en Vercel. | [En vivo](https://pagina-web-ferreteria-lozada.vercel.app) |
+| [cartelera-de-peliculas](https://github.com/Scorpwik/cartelera-de-peliculas) | Cartelera personal de películas y series con TMDB, autenticación y listas en Supabase. TypeScript. | [En vivo](https://scorpwik.github.io/cartelera-de-peliculas/) |
+| [asistencia-baloncesto](https://github.com/Scorpwik/asistencia-baloncesto) | App para registrar asistencia de baloncesto por paralelos, sincronizada con Google Sheets. JavaScript. | [En vivo](https://scorpwik.github.io/asistencia-baloncesto/) |
+| [tienda-camera-pro](https://github.com/Scorpwik/tienda-camera-pro) | Tienda CAMERA PRO de equipo fotográfico, con backend Medusa y storefront en Next.js. | — |
+| [tracker-de-gimnasio](https://github.com/Scorpwik/tracker-de-gimnasio) | PWA para rutinas, series, métricas y fotos de progreso, con Firebase opcional. JavaScript. | [En vivo](https://scorpwik.github.io/tracker-de-gimnasio/) |
+| [uso-de-pantallas](https://github.com/Scorpwik/uso-de-pantallas) | Sitio académico de una página sobre el uso de pantallas, hecho con Astro y Decap CMS. | [En vivo](https://uso-de-pantallas.vercel.app) |
 
 ## Tecnologías
 
@@ -20,15 +39,11 @@ Estudiante de **Diseño de Medios Interactivos** en la USFQ. Me gusta construir 
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Proyectos destacados
-
-- [tienda-ferreteria-lozada](https://github.com/Scorpwik/tienda-ferreteria-lozada) — Tienda web de Ferretería Lozada (Chillogallo) con catálogo, cotización en PDF y WhatsApp.
-- [cartelera-de-peliculas](https://github.com/Scorpwik/cartelera-de-peliculas) — Cartelera personal de películas y series con TMDB, autenticación y listas en Supabase.
-- [asistencia-baloncesto](https://github.com/Scorpwik/asistencia-baloncesto) — App para registrar asistencia de baloncesto por paralelos, sincronizada con Google Sheets.
-- [tienda-camera-pro](https://github.com/Scorpwik/tienda-camera-pro) — Tienda CAMERA PRO de equipo fotográfico, con backend Medusa y storefront en Next.js.
-- [tracker-de-gimnasio](https://github.com/Scorpwik/tracker-de-gimnasio) — PWA para rutinas, series, métricas y fotos de progreso, con Firebase opcional.
-- [uso-de-pantallas](https://github.com/Scorpwik/uso-de-pantallas) — Sitio académico de una página sobre el uso de pantallas, hecho con Astro y Decap CMS.
-
 ## Sobre mí
 
-Estoy en Ecuador. Estudio en la Universidad San Francisco de Quito y combino diseño interactivo con desarrollo de software.
+Estoy en Ecuador. Estudio en la Universidad San Francisco de Quito y combino diseño interactivo con desarrollo de software. Me interesa que lo que construyo se pueda abrir, probar y usar, no solo quedar como ejercicio.
+
+## Estadísticas
+
+[![Estadísticas de GitHub de Joshua Lozada](https://github-stats-extended.vercel.app/api?username=Scorpwik&show_icons=true&theme=transparent&locale=es&hide_rank=true)](https://github.com/Scorpwik)
+[![Lenguajes más usados](https://github-stats-extended.vercel.app/api/top-langs/?username=Scorpwik&layout=compact&theme=transparent&hide=html,css&locale=es)](https://github.com/Scorpwik)
